@@ -1,0 +1,918 @@
+Age-group,Sex,ChestPainType,RestingBP,FastingBS,RestingECG,MaxHR,ExerciseAngina,ST_Slope,HeartDisease
+45-55,M,ASY,Hypertoniia,N,Normal,low,N,Flat,Y
+56-65,M,ASY,Hypertoniia,N,Normal,low,Y,Up,Y
+56-65,M,ASY,Hypertoniia,Y,ST,low,N,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,Normal,low,N,Down,N
+56-65,M,NAP,Hypertoniia,Y,ST,low,N,Flat,Y
+More 65,M,ASY,Nomal,N,Normal,low,N,Flat,Y
+56-65,M,ASY,Nomal,Y,Normal,low,Y,Flat,Y
+56-65,M,NAP,Hypertoniia,N,Normal,low,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,low,N,Flat,Y
+56-65,M,ASY,Nomal,Y,Normal,low,N,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,ST,low,N,Flat,Y
+56-65,M,NAP,Nomal,N,Normal,medium,Y,Flat,Y
+Less 45,M,NAP,Hypotoniia,N,Normal,medium,Y,Up,N
+45-55,M,ASY,Hypotoniia,Y,Normal,medium,Y,Flat,Y
+56-65,M,ASY,Nomal,Y,ST,medium,N,Up,Y
+45-55,M,ASY,Hypertoniia,N,ST,medium,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,medium,N,Flat,Y
+56-65,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,Normal,medium,Y,Down,Y
+More 65,M,ASY,Nomal,Y,LVH,medium,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,ST,medium,N,Flat,Y
+56-65,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+56-65,M,ASY,Nomal,N,ST,medium,N,Up,N
+56-65,M,NAP,Nomal,N,LVH,medium,N,Up,N
+56-65,M,ASY,Hypertoniia,Y,Normal,medium,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,ST,medium,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+More 65,F,ASY,Hypertoniia,Y,Normal,medium,N,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,LVH,medium,N,Flat,Y
+45-55,F,ASY,Nomal,N,Normal,medium,N,Up,N
+45-55,M,ASY,Nomal,N,Normal,medium,Y,Flat,Y
+45-55,M,ASY,Nomal,Y,Normal,medium,N,Flat,Y
+More 65,M,ASY,Nomal,N,ST,medium,Y,Flat,Y
+45-55,M,ASY,Nomal,N,ST,medium,N,Up,Y
+56-65,M,NAP,Hypertoniia,Y,ST,medium,N,Flat,Y
+56-65,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,medium,Y,Flat,Y
+56-65,M,ATA,Nomal,N,LVH,medium,Y,Flat,Y
+56-65,M,ASY,Nomal,Y,Normal,medium,N,Flat,Y
+More 65,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+More 65,M,NAP,Hypertoniia,Y,Normal,medium,N,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+45-55,M,ATA,Nomal,N,Normal,medium,N,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,medium,Y,Flat,Y
+56-65,F,NAP,Nomal,Y,Normal,medium,N,Up,N
+56-65,M,ASY,Nomal,N,ST,medium,Y,Flat,N
+45-55,M,ASY,Nomal,N,Normal,medium,Y,Flat,Y
+56-65,M,ASY,Nomal,N,LVH,medium,Y,Down,Y
+45-55,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+45-55,F,ASY,Nomal,Y,LVH,medium,N,Up,N
+45-55,M,ASY,Nomal,N,ST,medium,Y,Flat,Y
+56-65,M,NAP,Nomal,N,Normal,medium,N,Flat,N
+56-65,M,ASY,Hypertoniia,N,ST,medium,Y,Up,Y
+56-65,F,NAP,Nomal,N,Normal,medium,N,Flat,Y
+56-65,M,NAP,Nomal,Y,Normal,medium,N,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,Normal,medium,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,Normal,medium,Y,Up,Y
+56-65,M,ASY,Nomal,Y,Normal,medium,N,Flat,Y
+45-55,F,ASY,Nomal,N,Normal,medium,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+Less 45,M,ATA,Nomal,N,ST,medium,N,Up,N
+56-65,F,TA,Nomal,N,Normal,medium,N,Flat,N
+56-65,M,NAP,Nomal,N,Normal,medium,Y,Flat,Y
+Less 45,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+56-65,M,NAP,Hypertoniia,N,ST,medium,N,Flat,Y
+56-65,M,ASY,Hypertoniia,N,ST,medium,Y,Flat,Y
+56-65,M,ATA,Hypertoniia,N,ST,medium,Y,Flat,Y
+More 65,M,NAP,Nomal,Y,LVH,medium,Y,Flat,N
+56-65,M,ASY,Nomal,N,Normal,medium,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+56-65,M,ASY,Nomal,N,ST,medium,Y,Down,Y
+56-65,M,ASY,Nomal,N,ST,medium,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,Normal,medium,Y,Flat,Y
+45-55,M,ATA,Hypotoniia,N,Normal,medium,N,Up,N
+45-55,M,ASY,Nomal,N,Normal,medium,N,Up,N
+56-65,M,ATA,Nomal,N,Normal,medium,N,Up,N
+56-65,M,ASY,Nomal,N,LVH,medium,N,Up,N
+56-65,M,TA,Hypertoniia,Y,ST,medium,N,Down,Y
+56-65,M,NAP,Hypertoniia,N,Normal,medium,N,Up,N
+56-65,M,ASY,Hypertoniia,N,Normal,medium,N,Up,N
+45-55,M,ASY,Nomal,Y,ST,medium,N,Flat,Y
+56-65,M,ASY,Nomal,N,LVH,medium,N,Flat,Y
+Less 45,M,ASY,Nomal,N,Normal,medium,Y,Flat,Y
+45-55,F,NAP,Nomal,N,ST,medium,Y,Flat,Y
+45-55,M,ASY,Nomal,Y,ST,medium,N,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+More 65,M,NAP,Nomal,N,Normal,medium,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,Normal,medium,Y,Down,Y
+56-65,M,ASY,Nomal,Y,Normal,medium,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+56-65,M,ATA,Nomal,N,LVH,medium,N,Flat,Y
+56-65,M,ASY,Nomal,Y,LVH,medium,Y,Down,Y
+45-55,M,ASY,Nomal,Y,Normal,medium,N,Flat,Y
+More 65,M,ASY,Hypertoniia,N,ST,medium,Y,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,medium,Y,Down,Y
+56-65,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,ST,medium,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,LVH,medium,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,medium,N,Flat,Y
+56-65,M,ASY,Hypertoniia,N,Normal,medium,N,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,Normal,medium,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,ST,medium,Y,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,medium,Y,Flat,N
+45-55,F,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+Less 45,M,ASY,Nomal,N,Normal,medium,Y,Down,Y
+56-65,M,ASY,Nomal,N,LVH,medium,Y,Down,Y
+56-65,M,ASY,Nomal,Y,ST,medium,N,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,medium,N,Flat,Y
+Less 45,M,ATA,Hypertoniia,N,Normal,medium,N,Up,N
+56-65,F,ASY,Hypertoniia,Y,Normal,medium,N,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,medium,N,Up,N
+56-65,M,ASY,Nomal,Y,Normal,medium,Y,Down,Y
+More 65,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+More 65,M,ASY,Hypertoniia,Y,ST,medium,N,Flat,Y
+45-55,M,ASY,Nomal,N,LVH,medium,Y,Flat,Y
+45-55,F,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+More 65,M,NAP,Hypertoniia,N,Normal,medium,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,ST,medium,Y,Flat,Y
+More 65,M,ASY,Hypertoniia,N,LVH,medium,Y,Flat,Y
+56-65,M,ASY,Hypotoniia,Y,Normal,medium,N,Flat,Y
+More 65,M,ASY,Hypertoniia,Y,Normal,medium,Y,Flat,Y
+More 65,M,ASY,Hypertoniia,N,Normal,medium,Y,Flat,Y
+45-55,M,ASY,Nomal,N,LVH,medium,Y,Flat,Y
+More 65,M,ASY,Nomal,N,LVH,medium,N,Flat,Y
+45-55,M,NAP,Hypotoniia,Y,ST,high,Y,Down,Y
+56-65,M,ASY,Hypotoniia,Y,Normal,high,Y,Up,Y
+45-55,M,NAP,Nomal,N,Normal,high,Y,Down,Y
+56-65,M,ASY,Nomal,Y,Normal,high,N,Up,Y
+56-65,M,ATA,Nomal,Y,Normal,high,Y,Flat,Y
+45-55,M,ASY,Nomal,Y,Normal,high,Y,Flat,Y
+45-55,F,ASY,Hypertoniia,Y,Normal,high,N,Flat,Y
+More 65,M,ASY,Nomal,N,ST,high,Y,Up,Y
+45-55,M,NAP,Hypertoniia,N,Normal,high,N,Up,N
+56-65,M,ASY,Nomal,N,Normal,high,N,Flat,Y
+56-65,M,ASY,Hypotoniia,N,ST,high,N,Up,N
+56-65,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,N
+45-55,M,ATA,Nomal,N,Normal,high,N,Up,N
+56-65,M,ATA,Nomal,N,Normal,high,N,Up,N
+45-55,F,ASY,Nomal,N,ST,high,N,Up,N
+45-55,M,ASY,Hypotoniia,Y,Normal,high,N,Flat,Y
+More 65,M,ASY,Hypertoniia,Y,ST,high,Y,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+45-55,F,ASY,Nomal,N,Normal,high,Y,Flat,N
+More 65,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+56-65,F,ATA,Hypertoniia,N,Normal,high,Y,Flat,Y
+Less 45,M,ASY,Hypotoniia,N,ST,high,N,Up,N
+56-65,M,NAP,Nomal,N,ST,high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,high,Y,Down,Y
+45-55,M,ASY,Hypertoniia,N,LVH,high,Y,Up,N
+56-65,M,ASY,Hypertoniia,N,LVH,high,Y,Up,Y
+56-65,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Nomal,Y,Normal,high,Y,Flat,Y
+More 65,M,ASY,Hypertoniia,Y,ST,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,Normal,high,Y,Down,Y
+45-55,M,ASY,Nomal,N,Normal,high,N,Flat,Y
+More 65,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Nomal,N,ST,high,Y,Flat,N
+56-65,M,ASY,Hypertoniia,N,ST,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,Normal,high,Y,Flat,Y
+More 65,M,NAP,Hypertoniia,N,Normal,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,LVH,high,Y,Flat,Y
+More 65,M,ASY,Hypertoniia,N,Normal,high,Y,Down,Y
+More 65,M,ASY,Hypertoniia,Y,Normal,high,Y,Down,N
+56-65,M,ASY,Nomal,Y,Normal,high,N,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,high,N,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,LVH,high,Y,Up,Y
+56-65,M,ASY,Hypertoniia,N,LVH,high,Y,Flat,Y
+56-65,M,ASY,Nomal,Y,Normal,high,Y,Down,Y
+More 65,M,NAP,Hypertoniia,N,LVH,high,N,Flat,N
+Less 45,M,ASY,Nomal,N,LVH,high,Y,Flat,Y
+56-65,M,NAP,Nomal,N,Normal,high,N,Up,N
+56-65,F,ASY,Hypertoniia,N,LVH,high,N,Flat,Y
+More 65,F,TA,Hypertoniia,N,Normal,high,N,Down,N
+45-55,M,NAP,Hypotoniia,N,Normal,high,N,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,high,N,Flat,Y
+56-65,M,ASY,Nomal,N,LVH,high,N,Flat,Y
+56-65,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+More 65,F,NAP,Nomal,N,LVH,high,N,Flat,N
+45-55,F,NAP,Nomal,N,LVH,high,N,Up,N
+Less 45,F,ASY,Nomal,N,ST,high,N,Up,N
+More 65,M,ASY,Nomal,N,ST,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,Normal,high,N,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,high,N,Flat,Y
+56-65,M,ASY,Nomal,N,ST,high,Y,Flat,Y
+56-65,M,ASY,Nomal,N,ST,high,Y,Up,N
+56-65,M,ASY,Hypertoniia,N,ST,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,ST,high,Y,Flat,Y
+More 65,M,NAP,Hypertoniia,N,Normal,high,N,Up,N
+45-55,M,NAP,Hypertoniia,N,Normal,high,N,Up,N
+56-65,F,TA,Hypertoniia,N,Normal,high,N,Up,N
+More 65,F,NAP,Hypertoniia,N,ST,high,N,Flat,N
+45-55,M,ATA,Hypertoniia,N,ST,high,N,Up,N
+More 65,M,TA,Hypertoniia,Y,Normal,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,ST,high,Y,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Nomal,N,LVH,high,Y,Flat,Y
+45-55,M,ASY,Nomal,N,ST,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,ST,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,high,Y,Down,Y
+45-55,F,ASY,Hypertoniia,N,ST,high,Y,Flat,Y
+More 65,M,NAP,Hypertoniia,Y,ST,high,N,Down,Y
+56-65,M,ASY,Hypertoniia,N,ST,high,Y,Up,N
+45-55,M,NAP,Hypertoniia,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+56-65,M,NAP,Hypertoniia,N,ST,high,Y,Flat,Y
+45-55,M,ATA,Hypertoniia,N,Normal,high,N,Up,N
+Less 45,F,ATA,Nomal,N,Normal,high,N,Up,N
+45-55,M,ASY,Nomal,N,LVH,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,ST,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,ST,high,Y,Flat,Y
+45-55,M,ATA,Nomal,N,Normal,high,N,Up,N
+Less 45,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+56-65,M,ASY,Nomal,Y,Normal,high,Y,Up,Y
+56-65,M,NAP,Hypertoniia,Y,ST,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,LVH,high,Y,Down,Y
+56-65,M,ASY,Nomal,N,ST,high,Y,Down,Y
+56-65,M,ASY,Hypertoniia,Y,LVH,high,Y,Flat,Y
+45-55,M,NAP,Nomal,Y,Normal,high,Y,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Nomal,Y,Normal,high,N,Flat,Y
+More 65,M,NAP,Nomal,N,ST,high,N,Up,N
+Less 45,M,ASY,Nomal,N,Normal,high,N,Up,Y
+45-55,M,ASY,Nomal,Y,Normal,high,N,Up,Y
+56-65,M,ASY,Nomal,N,ST,high,N,Down,N
+45-55,M,ASY,Nomal,Y,Normal,high,N,Flat,Y
+45-55,M,ATA,Nomal,N,ST,high,N,Down,N
+56-65,M,NAP,Hypertoniia,N,LVH,high,Y,Flat,Y
+More 65,M,ASY,Hypertoniia,N,ST,high,Y,Up,Y
+56-65,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+Less 45,M,ASY,Hypertoniia,Y,Normal,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,LVH,high,Y,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+More 65,M,NAP,Hypotoniia,N,LVH,high,N,Down,Y
+56-65,M,ASY,Hypertoniia,N,ST,high,Y,Flat,Y
+Less 45,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+Less 45,M,ASY,Nomal,N,LVH,high,Y,Flat,Y
+45-55,F,NAP,Nomal,N,Normal,high,N,Up,N
+45-55,F,NAP,Hypertoniia,N,Normal,high,N,Up,N
+Less 45,M,ATA,Nomal,N,Normal,high,N,Up,N
+45-55,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+More 65,M,ATA,Hypertoniia,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,ST,high,N,Up,N
+45-55,F,ATA,Nomal,N,Normal,high,N,Up,N
+45-55,M,ASY,Hypertoniia,N,ST,high,Y,Flat,Y
+56-65,M,ATA,Hypertoniia,Y,ST,high,N,Flat,Y
+56-65,F,ASY,Nomal,N,ST,high,Y,Flat,N
+56-65,F,ATA,Hypertoniia,Y,Normal,high,Y,Up,N
+45-55,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+56-65,M,NAP,Nomal,N,Normal,high,Y,Flat,N
+45-55,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,LVH,high,Y,Up,Y
+56-65,M,ASY,Hypertoniia,Y,Normal,high,Y,Up,Y
+More 65,F,NAP,Hypertoniia,N,ST,high,N,Up,Y
+45-55,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+More 65,F,ATA,Nomal,N,LVH,high,Y,Up,N
+56-65,M,ASY,Hypotoniia,N,ST,high,Y,Up,Y
+Less 45,M,ASY,Hypotoniia,Y,Normal,high,N,Down,Y
+56-65,M,ASY,Nomal,N,LVH,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,ST,high,Y,Flat,Y
+45-55,M,NAP,Hypertoniia,Y,LVH,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,ST,high,N,Flat,Y
+45-55,M,ASY,Hypertoniia,Y,Normal,high,Y,Up,Y
+45-55,M,NAP,Hypertoniia,N,Normal,high,N,Up,N
+56-65,M,NAP,Hypertoniia,N,ST,high,Y,Flat,Y
+56-65,M,NAP,Hypertoniia,Y,ST,high,Y,Flat,Y
+More 65,M,ASY,Hypertoniia,N,ST,high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,high,N,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,high,N,Flat,Y
+45-55,M,ATA,Hypertoniia,Y,Normal,high,N,Up,N
+45-55,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+56-65,F,ASY,Hypotoniia,N,LVH,high,N,Flat,N
+Less 45,F,ASY,Hypotoniia,N,LVH,high,N,Flat,N
+45-55,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+56-65,F,ASY,Nomal,N,Normal,high,N,Flat,N
+56-65,M,NAP,Hypertoniia,Y,ST,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,ST,high,Y,Flat,Y
+56-65,F,ASY,Nomal,Y,ST,high,Y,Down,Y
+More 65,M,ATA,Hypertoniia,Y,ST,high,N,Up,Y
+56-65,M,NAP,Hypertoniia,N,LVH,high,Y,Flat,Y
+45-55,M,NAP,Nomal,N,Normal,high,N,Up,N
+56-65,M,ASY,Hypertoniia,Y,Normal,high,Y,Flat,Y
+56-65,F,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+56-65,M,NAP,Hypertoniia,N,Normal,high,Y,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,high,N,Up,Y
+45-55,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,high,N,Flat,Y
+56-65,F,ATA,Nomal,N,Normal,high,N,Flat,N
+45-55,M,NAP,Hypertoniia,N,ST,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,ST,high,Y,Flat,Y
+56-65,M,NAP,Hypertoniia,N,ST,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,LVH,high,N,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+Less 45,M,ASY,Nomal,Y,Normal,high,Y,Flat,Y
+45-55,M,NAP,Nomal,N,ST,high,Y,Flat,Y
+45-55,M,ASY,Nomal,Y,ST,high,Y,Flat,Y
+More 65,M,TA,Hypertoniia,N,LVH,high,N,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,high,N,Flat,Y
+More 65,F,ASY,Nomal,N,Normal,high,N,Flat,N
+56-65,M,ASY,Hypertoniia,N,LVH,high,Y,Flat,Y
+More 65,M,ASY,Hypertoniia,N,Normal,high,Y,Down,Y
+45-55,F,NAP,Nomal,N,Normal,high,N,Up,N
+45-55,M,TA,Nomal,N,LVH,high,Y,Up,N
+56-65,M,ASY,Hypertoniia,Y,Normal,high,Y,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+56-65,M,ASY,Hypotoniia,N,Normal,high,N,Flat,Y
+More 65,M,TA,Hypertoniia,Y,Normal,high,N,Up,Y
+56-65,M,TA,Hypertoniia,N,LVH,high,N,Up,Y
+45-55,M,ASY,Hypertoniia,Y,Normal,high,Y,Up,N
+45-55,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+More 65,M,ASY,Hypotoniia,N,LVH,high,Y,Flat,Y
+Less 45,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,ST,high,Y,Flat,Y
+45-55,M,ASY,Nomal,Y,Normal,high,Y,Flat,Y
+45-55,M,ASY,Hypotoniia,Y,Normal,high,N,Flat,Y
+45-55,M,NAP,Nomal,N,LVH,high,N,Up,Y
+56-65,M,ASY,Hypertoniia,N,Normal,high,N,Up,N
+45-55,M,ASY,Hypertoniia,N,LVH,high,Y,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,high,Y,Flat,N
+45-55,M,ASY,Hypertoniia,Y,ST,high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+More 65,M,NAP,Hypertoniia,N,LVH,high,N,Up,N
+56-65,M,ASY,Hypertoniia,Y,Normal,high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,high,N,Flat,Y
+56-65,F,ASY,Hypertoniia,N,ST,high,Y,Flat,N
+Less 45,M,TA,Hypotoniia,Y,Normal,high,N,Up,Y
+45-55,F,ASY,Nomal,Y,Normal,high,Y,Up,Y
+45-55,M,NAP,Hypertoniia,N,Normal,high,Y,Flat,Y
+Less 45,M,ASY,Nomal,N,ST,high,N,Up,N
+45-55,M,ASY,Nomal,N,LVH,high,Y,Down,Y
+56-65,M,ASY,Hypertoniia,N,LVH,high,N,Flat,Y
+45-55,M,NAP,Hypertoniia,N,Normal,high,Y,Flat,Y
+45-55,F,ATA,Nomal,N,Normal,high,N,Up,N
+Less 45,M,ASY,Hypotoniia,Y,Normal,high,Y,Down,Y
+Less 45,M,NAP,Nomal,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Nomal,Y,Normal,high,N,Flat,Y
+56-65,M,ASY,Nomal,Y,Normal,high,Y,Down,Y
+56-65,M,NAP,Hypertoniia,N,Normal,high,Y,Down,Y
+45-55,M,ASY,Hypertoniia,Y,Normal,high,Y,Flat,Y
+Less 45,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,N
+56-65,M,ATA,Hypertoniia,Y,ST,high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+56-65,M,ASY,Nomal,N,ST,high,N,Flat,N
+45-55,M,ASY,Hypertoniia,N,LVH,high,N,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+56-65,M,NAP,Nomal,N,Normal,high,Y,Up,N
+45-55,M,ASY,Hypertoniia,Y,ST,high,Y,Flat,Y
+More 65,M,ASY,Nomal,Y,ST,high,N,Flat,Y
+More 65,M,ASY,Hypertoniia,N,ST,high,Y,Down,Y
+More 65,M,ASY,Nomal,N,LVH,high,Y,Flat,Y
+Less 45,F,ATA,Nomal,N,Normal,high,N,Up,N
+Less 45,M,ASY,Nomal,Y,Normal,high,Y,Flat,Y
+56-65,M,ASY,Nomal,Y,ST,high,Y,Down,Y
+56-65,M,ATA,Hypertoniia,N,Normal,high,N,Up,N
+56-65,F,ATA,Hypertoniia,N,Normal,high,N,Up,N
+More 65,M,ASY,Hypertoniia,N,Normal,high,N,Flat,Y
+More 65,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+More 65,M,ASY,Hypertoniia,Y,LVH,high,N,Flat,Y
+45-55,M,ASY,Hypertoniia,Y,LVH,high,Y,Flat,Y
+Less 45,M,ASY,Nomal,N,ST,high,N,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,high,N,Up,N
+45-55,M,ATA,Hypertoniia,N,ST,high,N,Up,N
+Less 45,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+45-55,F,ASY,Nomal,N,ST,high,Y,Flat,Y
+Less 45,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Nomal,N,ST,high,Y,Flat,Y
+45-55,F,ASY,Hypertoniia,N,Normal,high,Y,Flat,N
+45-55,F,ATA,Hypertoniia,N,Normal,high,N,Up,N
+Less 45,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+56-65,M,ASY,Nomal,Y,LVH,high,N,Flat,Y
+More 65,M,ASY,Hypertoniia,Y,ST,high,Y,Down,Y
+56-65,M,ASY,Nomal,N,LVH,high,Y,Flat,Y
+Less 45,F,ATA,Nomal,N,Normal,high,N,Up,N
+More 65,F,NAP,Nomal,Y,LVH,high,N,Up,N
+45-55,F,NAP,Nomal,N,Normal,high,N,Up,N
+Less 45,M,NAP,Hypertoniia,N,Normal,high,N,Up,N
+56-65,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+45-55,F,ATA,Hypertoniia,N,Normal,high,N,Up,N
+56-65,F,ASY,Nomal,Y,ST,high,Y,Flat,Y
+More 65,M,ASY,Hypertoniia,Y,ST,high,Y,Flat,Y
+Less 45,F,ASY,Hypertoniia,N,Normal,high,N,Flat,Y
+45-55,M,NAP,Hypertoniia,N,Normal,high,N,Flat,Y
+Less 45,M,ASY,Nomal,N,Normal,high,N,Flat,Y
+56-65,M,ASY,Nomal,Y,ST,high,Y,Up,Y
+56-65,M,ASY,Hypertoniia,N,ST,high,Y,Up,N
+56-65,F,ASY,Nomal,N,Normal,high,N,Flat,N
+56-65,M,ASY,Nomal,N,LVH,high,Y,Flat,Y
+More 65,M,TA,Hypertoniia,Y,LVH,high,N,Flat,N
+45-55,M,NAP,Hypertoniia,Y,ST,high,Y,Flat,Y
+56-65,M,NAP,Nomal,N,Normal,high,Y,Flat,Y
+45-55,M,ATA,Nomal,N,Normal,high,N,Up,N
+More 65,M,NAP,Hypertoniia,Y,Normal,high,N,Flat,Y
+Less 45,M,ATA,Hypertoniia,N,Normal,high,N,Flat,N
+56-65,M,ASY,Nomal,N,LVH,high,Y,Flat,Y
+More 65,M,ASY,Nomal,N,LVH,high,Y,Up,Y
+56-65,M,ASY,Hypertoniia,N,LVH,high,N,Flat,Y
+45-55,M,TA,Nomal,N,Normal,high,N,Flat,Y
+Less 45,M,ASY,Nomal,N,Normal,high,N,Up,N
+45-55,M,ASY,Nomal,N,Normal,high,N,Flat,N
+56-65,M,ASY,Nomal,Y,LVH,high,Y,Up,Y
+45-55,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Hypotoniia,Y,ST,high,N,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,high,Y,Up,N
+56-65,M,ATA,Hypertoniia,N,ST,high,N,Up,N
+56-65,F,ASY,Hypertoniia,Y,LVH,high,Y,Down,Y
+56-65,F,NAP,Hypertoniia,N,Normal,high,N,Up,N
+56-65,M,TA,Nomal,Y,LVH,high,N,Flat,Y
+Less 45,M,ASY,Hypotoniia,N,Normal,high,Y,Flat,Y
+56-65,M,NAP,Nomal,Y,Normal,high,N,Flat,Y
+45-55,M,NAP,Nomal,N,LVH,high,N,Up,N
+45-55,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,ST,high,N,Up,N
+45-55,M,ASY,Nomal,N,LVH,high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,high,N,Up,N
+More 65,M,TA,Hypertoniia,Y,ST,high,N,Up,N
+56-65,M,ASY,Hypertoniia,N,ST,high,Y,Flat,Y
+45-55,F,NAP,Nomal,N,ST,high,N,Up,N
+Less 45,M,ATA,Nomal,N,Normal,high,N,Up,N
+56-65,M,ASY,Nomal,N,Normal,high,Y,Down,Y
+56-65,M,NAP,Nomal,N,LVH,high,N,Up,N
+56-65,M,TA,Hypertoniia,N,Normal,high,N,Up,N
+45-55,F,ATA,Hypertoniia,N,Normal,high,N,Up,N
+56-65,M,ASY,Nomal,N,ST,high,Y,Down,Y
+56-65,M,ATA,Hypertoniia,N,Normal,high,N,Up,N
+Less 45,M,ASY,Hypertoniia,N,Normal,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,LVH,high,N,Up,N
+Less 45,M,ASY,Hypertoniia,N,Normal,high,N,Flat,Y
+More 65,M,ASY,Hypertoniia,Y,Normal,high,N,Up,Y
+45-55,M,NAP,Hypertoniia,N,ST,high,N,Up,N
+56-65,F,ASY,Nomal,N,Normal,high,Y,Flat,Y
+Less 45,M,ATA,Hypertoniia,N,Normal,high,N,Up,N
+45-55,M,TA,Hypertoniia,N,Normal,high,N,Flat,Y
+Less 45,F,ASY,Hypertoniia,Y,LVH,high,Y,Flat,Y
+56-65,M,TA,Hypertoniia,N,ST,high,N,Up,N
+45-55,M,TA,Nomal,N,Normal,high,N,Up,N
+45-55,M,NAP,Hypertoniia,N,ST,high,N,Up,N
+Less 45,F,NAP,Nomal,N,ST,high,N,Up,N
+45-55,M,NAP,Nomal,N,Normal,high,N,Up,N
+56-65,M,NAP,Hypertoniia,Y,Normal,high,Y,Flat,N
+45-55,M,ATA,Nomal,Y,Normal,high,N,Up,N
+45-55,M,NAP,Nomal,N,Normal,high,N,Up,N
+56-65,M,ASY,Nomal,Y,Normal,high,N,Up,Y
+45-55,M,ATA,Hypertoniia,N,Normal,high,Y,Up,N
+45-55,F,ATA,Nomal,N,Normal,high,N,Flat,N
+56-65,M,ASY,Hypertoniia,N,ST,high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,LVH,high,Y,Up,Y
+Less 45,M,ATA,Hypertoniia,N,Normal,high,N,Up,N
+45-55,M,NAP,Nomal,N,Normal,high,N,Up,N
+Less 45,M,NAP,Nomal,N,Normal,high,N,Up,N
+45-55,F,ATA,Nomal,N,Normal,high,N,Up,N
+45-55,M,ASY,Hypertoniia,Y,ST,high,N,Up,N
+More 65,M,ASY,Hypertoniia,N,LVH,high,N,Up,N
+Less 45,M,ASY,Nomal,Y,Normal,high,Y,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,Y,Normal,high,Y,Flat,Y
+45-55,M,NAP,Nomal,N,Normal,high,N,Flat,Y
+45-55,M,ASY,Hypertoniia,Y,LVH,high,N,Up,N
+45-55,F,NAP,Nomal,N,Normal,high,N,Up,N
+45-55,M,ASY,Hypertoniia,N,ST,high,N,Up,N
+45-55,F,NAP,Nomal,N,Normal,high,N,Up,N
+Less 45,M,ASY,Hypertoniia,N,ST,extre high,Y,Up,Y
+45-55,M,ASY,Hypertoniia,Y,ST,extre high,Y,Flat,Y
+56-65,M,NAP,Hypertoniia,N,ST,extre high,Y,Flat,N
+56-65,F,ASY,Hypertoniia,N,Normal,extre high,Y,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,ATA,Nomal,N,ST,extre high,N,Up,N
+56-65,M,ASY,Hypertoniia,N,Normal,extre high,N,Up,N
+56-65,M,ASY,Nomal,N,Normal,extre high,N,Up,N
+45-55,F,ASY,Nomal,N,Normal,extre high,Y,Flat,N
+56-65,M,ASY,Nomal,Y,ST,extre high,Y,Flat,Y
+56-65,M,ASY,Nomal,Y,LVH,extre high,Y,Flat,Y
+45-55,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,ATA,Nomal,Y,LVH,extre high,N,Up,N
+More 65,M,ASY,Hypertoniia,N,ST,extre high,Y,Flat,Y
+56-65,M,NAP,Nomal,N,ST,extre high,N,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,extre high,Y,Up,N
+45-55,M,ASY,Nomal,N,Normal,extre high,N,Flat,Y
+56-65,M,ASY,Hypertoniia,N,ST,extre high,Y,Down,Y
+Less 45,M,ASY,Nomal,N,Normal,extre high,N,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,extre high,Y,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,extre high,N,Up,N
+45-55,F,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,F,ATA,Nomal,Y,Normal,extre high,N,Up,N
+45-55,M,ASY,Hypertoniia,N,ST,extre high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,extre high,Y,Flat,Y
+45-55,M,ASY,Nomal,N,ST,extre high,Y,Flat,N
+45-55,M,ASY,Nomal,N,ST,extre high,N,Up,N
+56-65,M,ASY,Hypertoniia,N,Normal,extre high,Y,Down,Y
+56-65,M,ASY,Nomal,N,ST,extre high,Y,Flat,Y
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,extre high,Y,Flat,Y
+56-65,M,ATA,Hypertoniia,Y,Normal,extre high,N,Up,N
+More 65,M,ASY,Nomal,N,Normal,extre high,N,Up,Y
+56-65,M,ASY,Nomal,N,Normal,extre high,Y,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,extre high,N,Up,N
+56-65,F,ASY,Hypertoniia,N,Normal,extre high,Y,Flat,Y
+45-55,F,NAP,Hypertoniia,N,Normal,extre high,Y,Flat,Y
+Less 45,M,ASY,Nomal,N,Normal,extre high,N,Up,N
+45-55,F,ATA,Hypertoniia,N,ST,extre high,N,Up,N
+56-65,M,ASY,Nomal,N,ST,extre high,N,Down,Y
+56-65,M,ASY,Hypertoniia,N,LVH,extre high,Y,Down,Y
+45-55,M,ASY,Hypotoniia,N,Normal,extre high,Y,Down,N
+56-65,M,NAP,Nomal,Y,Normal,extre high,Y,Up,Y
+45-55,M,ATA,Hypertoniia,N,ST,extre high,N,Up,N
+More 65,M,ASY,Hypertoniia,Y,Normal,extre high,N,Flat,Y
+56-65,M,ASY,Nomal,N,LVH,extre high,Y,Flat,Y
+56-65,M,ATA,Nomal,N,Normal,extre high,N,Up,Y
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Flat,N
+45-55,M,ASY,Hypertoniia,N,Normal,extre high,Y,Flat,Y
+45-55,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+Less 45,F,NAP,Nomal,N,Normal,extre high,N,Up,N
+45-55,F,ATA,Hypertoniia,N,Normal,extre high,Y,Flat,N
+Less 45,F,TA,Hypotoniia,N,Normal,extre high,N,Up,N
+More 65,F,ASY,Hypotoniia,N,Normal,extre high,N,Up,N
+56-65,M,ASY,Nomal,N,LVH,extre high,Y,Flat,Y
+Less 45,F,ATA,Nomal,N,ST,extre high,N,Up,N
+Less 45,M,ASY,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,NAP,Nomal,Y,LVH,extre high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,LVH,extre high,Y,Flat,Y
+45-55,F,ASY,Nomal,N,Normal,extre high,Y,Flat,Y
+45-55,F,NAP,Hypertoniia,N,LVH,extre high,N,Up,N
+56-65,M,NAP,Nomal,Y,Normal,extre high,N,Up,Y
+56-65,F,TA,Hypertoniia,Y,Normal,extre high,N,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,NAP,Hypotoniia,N,Normal,extre high,Y,Flat,N
+More 65,M,ATA,Hypertoniia,N,LVH,extre high,N,Up,N
+Less 45,M,ASY,Hypertoniia,Y,LVH,extre high,Y,Flat,Y
+56-65,F,ASY,Hypertoniia,N,Normal,extre high,Y,Flat,Y
+45-55,F,ASY,Nomal,N,LVH,extre high,N,Flat,N
+45-55,M,ATA,Hypertoniia,Y,Normal,extre high,Y,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,extre high,Y,Flat,Y
+Less 45,M,ASY,Hypotoniia,Y,ST,extre high,N,Up,Y
+Less 45,M,ASY,Nomal,N,Normal,extre high,Y,Down,Y
+56-65,M,ASY,Hypertoniia,N,LVH,extre high,Y,Up,Y
+56-65,M,TA,Nomal,N,LVH,extre high,Y,Flat,N
+56-65,M,ASY,Hypertoniia,N,ST,extre high,Y,Flat,Y
+56-65,M,ATA,Nomal,N,Normal,extre high,N,Flat,N
+45-55,M,ASY,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,ASY,Nomal,N,LVH,extre high,N,Up,Y
+56-65,M,ASY,Nomal,Y,LVH,extre high,Y,Flat,Y
+56-65,M,ASY,Nomal,N,Normal,extre high,Y,Up,Y
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+45-55,F,ASY,Hypertoniia,N,Normal,extre high,N,Up,N
+56-65,F,ASY,Hypotoniia,Y,Normal,extre high,N,Down,Y
+Less 45,M,ASY,Nomal,N,Normal,extre high,Y,Flat,Y
+45-55,M,TA,Nomal,N,ST,extre high,N,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,ST,extre high,N,Flat,Y
+56-65,F,ASY,Hypertoniia,N,LVH,extre high,N,Down,Y
+45-55,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,NAP,Hypertoniia,N,Normal,extre high,Y,Flat,Y
+45-55,F,ATA,Nomal,N,Normal,extre high,N,Up,N
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,TA,Hypertoniia,N,Normal,extre high,N,Flat,Y
+45-55,F,NAP,Nomal,N,Normal,extre high,N,Flat,N
+56-65,M,ATA,Hypertoniia,N,ST,extre high,Y,Flat,Y
+56-65,M,TA,Hypertoniia,N,LVH,extre high,N,Down,N
+45-55,M,ASY,Hypertoniia,N,LVH,extre high,Y,Flat,Y
+Less 45,M,NAP,Hypertoniia,N,Normal,extre high,N,Up,N
+56-65,F,ASY,Hypertoniia,Y,LVH,extre high,Y,Flat,Y
+56-65,M,NAP,Nomal,N,Normal,extre high,N,Flat,N
+Less 45,M,ATA,Nomal,N,ST,extre high,N,Up,N
+More 65,M,NAP,Hypertoniia,N,LVH,extre high,N,Flat,Y
+56-65,F,ASY,Hypertoniia,N,LVH,extre high,Y,Flat,Y
+45-55,M,NAP,Hypertoniia,N,Normal,extre high,N,Flat,Y
+45-55,M,ASY,Hypotoniia,Y,Normal,extre high,N,Up,N
+56-65,M,ASY,Nomal,N,LVH,extre high,N,Flat,Y
+45-55,M,NAP,Nomal,N,LVH,extre high,N,Flat,N
+45-55,M,ASY,Hypertoniia,N,LVH,extre high,Y,Flat,Y
+56-65,M,NAP,Hypotoniia,Y,Normal,extre high,N,Flat,Y
+56-65,M,ASY,Nomal,N,ST,extre high,N,Flat,Y
+56-65,M,ASY,Nomal,Y,ST,extre high,Y,Flat,Y
+45-55,F,ATA,Nomal,Y,ST,extre high,N,Up,N
+45-55,M,ASY,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,ASY,Hypertoniia,N,Normal,extre high,N,Flat,N
+45-55,M,ASY,Hypotoniia,N,LVH,extre high,Y,Flat,N
+45-55,F,ATA,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,ASY,Hypertoniia,N,Normal,extre high,Y,Down,Y
+56-65,F,NAP,Hypertoniia,N,Normal,extre high,N,Up,N
+56-65,M,ASY,Nomal,Y,ST,extre high,Y,Flat,Y
+45-55,M,ASY,Nomal,Y,ST,extre high,N,Up,Y
+56-65,M,ASY,Hypertoniia,Y,LVH,extre high,N,Up,Y
+56-65,M,ASY,Hypertoniia,Y,Normal,extre high,N,Flat,Y
+45-55,M,ASY,Hypertoniia,N,ST,extre high,Y,Up,Y
+Less 45,F,NAP,Nomal,N,Normal,extre high,N,Flat,N
+45-55,F,NAP,Nomal,N,LVH,extre high,N,Up,N
+More 65,M,ASY,Nomal,Y,Normal,extre high,N,Down,Y
+Less 45,M,ASY,Hypertoniia,Y,Normal,extre high,N,Flat,Y
+45-55,M,ATA,Hypertoniia,N,ST,extre high,N,Up,N
+45-55,M,ASY,Hypertoniia,Y,Normal,extre high,N,Flat,Y
+45-55,M,NAP,Hypertoniia,N,Normal,extre high,N,Flat,Y
+45-55,M,ASY,Hypertoniia,N,ST,extre high,N,Up,N
+Less 45,F,ASY,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,ASY,Nomal,N,Normal,extre high,N,Flat,Y
+Less 45,M,ASY,Nomal,N,Normal,extre high,Y,Flat,Y
+Less 45,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,M,ASY,Nomal,N,Normal,extre high,Y,Flat,Y
+More 65,M,NAP,Hypertoniia,N,LVH,extre high,N,Flat,Y
+Less 45,F,ATA,Hypotoniia,N,ST,extre high,N,Up,N
+Less 45,M,ATA,Hypotoniia,N,Normal,extre high,N,Up,N
+45-55,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,NAP,Nomal,N,LVH,extre high,N,Flat,Y
+45-55,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,TA,Hypertoniia,Y,LVH,extre high,N,Down,N
+45-55,M,NAP,Nomal,N,Normal,extre high,Y,Flat,Y
+Less 45,F,ATA,Nomal,N,Normal,extre high,N,Up,N
+Less 45,F,ASY,Hypotoniia,N,Normal,extre high,Y,Flat,Y
+45-55,M,TA,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,ASY,Nomal,Y,LVH,extre high,Y,Up,Y
+56-65,M,TA,Nomal,N,ST,extre high,Y,Flat,Y
+45-55,M,ASY,Hypertoniia,N,Normal,extre high,N,Flat,Y
+45-55,F,ATA,Nomal,N,Normal,extre high,N,Flat,N
+More 65,M,NAP,Hypertoniia,Y,LVH,extre high,Y,Flat,Y
+45-55,M,ASY,Nomal,Y,ST,extre high,Y,Down,Y
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+56-65,F,ATA,Nomal,N,Normal,extre high,N,Flat,Y
+Less 45,M,ASY,Nomal,N,Normal,extre high,N,Flat,Y
+56-65,M,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+56-65,M,ASY,Hypertoniia,Y,LVH,extre high,Y,Down,Y
+Less 45,M,ATA,Hypertoniia,N,Normal,extre high,Y,Flat,Y
+Less 45,M,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,F,ASY,Hypertoniia,N,Normal,extre high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,Y,Normal,extre high,Y,Flat,Y
+45-55,F,ATA,Nomal,N,LVH,extre high,N,Up,N
+56-65,F,ASY,Hypertoniia,N,LVH,extre high,Y,Flat,Y
+More 65,F,TA,Hypertoniia,N,Normal,extre high,N,Up,N
+More 65,M,NAP,Hypertoniia,Y,Normal,extre high,Y,Up,N
+More 65,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+More 65,M,ASY,Nomal,N,LVH,extre high,N,Flat,N
+56-65,F,NAP,Hypertoniia,N,LVH,extre high,N,Up,N
+45-55,M,NAP,Nomal,Y,LVH,extre high,N,Down,N
+Less 45,F,NAP,Hypertoniia,N,Normal,extre high,N,Flat,N
+Less 45,M,NAP,Nomal,N,Normal,extre high,Y,Flat,N
+45-55,F,ASY,Hypertoniia,N,LVH,extre high,Y,Flat,N
+45-55,M,NAP,Hypotoniia,N,Normal,extre high,N,Up,Y
+45-55,F,ASY,Hypertoniia,N,LVH,extre high,Y,Flat,N
+56-65,M,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,M,NAP,Nomal,N,LVH,extre high,N,Down,N
+More 65,F,NAP,Hypertoniia,N,LVH,extre high,N,Flat,N
+56-65,F,ATA,Hypertoniia,Y,LVH,extre high,N,Up,Y
+Less 45,M,ASY,Nomal,Y,Normal,extre high,Y,Flat,Y
+Less 45,M,NAP,Nomal,N,ST,extre high,N,Up,N
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+Less 45,M,ASY,Nomal,N,Normal,extre high,Y,Flat,Y
+Less 45,M,ASY,Nomal,N,LVH,extre high,N,Up,Y
+56-65,F,ATA,Hypertoniia,N,LVH,extre high,N,Flat,N
+Less 45,M,ASY,Nomal,Y,Normal,extre high,N,Up,Y
+56-65,M,ASY,Hypertoniia,Y,ST,extre high,N,Up,Y
+56-65,M,ASY,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,F,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,M,NAP,Hypotoniia,N,Normal,extre high,Y,Up,N
+45-55,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,NAP,Hypotoniia,N,LVH,extre high,Y,Flat,N
+56-65,F,ASY,Hypertoniia,N,Normal,extre high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,Normal,extre high,Y,Flat,N
+56-65,F,ASY,Hypertoniia,N,Normal,extre high,Y,Up,N
+45-55,F,ASY,Nomal,Y,ST,extre high,N,Flat,Y
+56-65,F,ASY,Hypertoniia,N,LVH,extre high,N,Flat,Y
+45-55,M,ASY,Nomal,Y,Normal,extre high,N,Flat,Y
+45-55,M,ASY,Nomal,N,Normal,extre high,N,Flat,Y
+56-65,M,NAP,Hypertoniia,N,LVH,extre high,N,Flat,Y
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,ASY,Hypertoniia,Y,LVH,extre high,Y,Down,Y
+56-65,M,TA,Hypertoniia,N,LVH,extre high,N,Flat,N
+45-55,M,ASY,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,F,ATA,Nomal,N,ST,extre high,N,Up,N
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+Less 45,M,TA,Nomal,N,ST,extre high,N,Flat,Y
+45-55,F,ATA,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,F,ASY,Nomal,N,Normal,extre high,N,Flat,Y
+45-55,M,ASY,Nomal,N,ST,extre high,Y,Up,Y
+45-55,F,NAP,Hypertoniia,N,Normal,extre high,N,Flat,Y
+45-55,M,ATA,Hypotoniia,Y,Normal,extre high,N,Up,N
+45-55,M,ASY,Nomal,Y,Normal,extre high,Y,Flat,Y
+56-65,M,ASY,Hypotoniia,N,Normal,extre high,N,Up,Y
+45-55,M,NAP,Hypertoniia,N,LVH,extre high,N,Up,N
+Less 45,M,ASY,Nomal,N,LVH,extre high,Y,Up,Y
+45-55,F,ATA,Hypertoniia,N,ST,extre high,N,Up,N
+45-55,M,ATA,Hypotoniia,N,Normal,extre high,N,Up,N
+More 65,M,ASY,Hypertoniia,Y,Normal,extre high,Y,Flat,Y
+56-65,M,NAP,Hypertoniia,Y,Normal,extre high,N,Up,N
+56-65,F,ASY,Hypertoniia,N,LVH,extre high,N,Flat,Y
+56-65,M,ATA,Hypertoniia,Y,ST,extre high,N,Flat,Y
+45-55,F,NAP,Nomal,N,LVH,extre high,N,Up,N
+56-65,F,ASY,Hypertoniia,N,LVH,extre high,N,Flat,N
+56-65,F,NAP,Hypertoniia,Y,LVH,extre high,N,Up,N
+Less 45,M,ASY,Nomal,N,LVH,extre high,N,Up,Y
+45-55,M,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,F,NAP,Nomal,N,Normal,extre high,N,Flat,N
+45-55,F,NAP,Nomal,N,Normal,extre high,N,Flat,N
+56-65,M,ASY,Nomal,N,LVH,extre high,N,Up,Y
+45-55,M,ASY,Hypertoniia,N,ST,extre high,Y,Flat,Y
+Less 45,M,ASY,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,NAP,Hypertoniia,N,Normal,extre high,N,Up,Y
+45-55,M,ASY,Hypertoniia,N,Normal,extre high,Y,Up,Y
+45-55,F,ASY,Nomal,N,LVH,extre high,N,Up,N
+45-55,F,ATA,Hypertoniia,Y,LVH,extre high,Y,Up,N
+56-65,M,TA,Hypertoniia,N,LVH,extre high,N,Flat,Y
+56-65,F,ASY,Nomal,N,LVH,extre high,N,Up,N
+56-65,M,NAP,Nomal,Y,ST,extre high,N,Flat,N
+Less 45,M,NAP,Hypertoniia,Y,Normal,extre high,N,Up,N
+45-55,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,NAP,Hypertoniia,Y,ST,extre high,N,Up,N
+45-55,F,NAP,Hypertoniia,N,LVH,extre high,Y,Down,N
+56-65,M,NAP,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,M,ATA,Nomal,N,Normal,extre high,Y,Flat,N
+45-55,F,ATA,Nomal,N,Normal,extre high,N,Up,N
+45-55,F,NAP,Nomal,N,Normal,extre high,Y,Up,N
+45-55,M,ASY,Nomal,N,Normal,extre high,N,Up,Y
+56-65,M,ASY,Nomal,Y,Normal,extre high,Y,Up,Y
+45-55,F,ASY,Hypertoniia,N,LVH,extre high,N,Up,N
+45-55,M,ASY,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,M,NAP,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Flat,Y
+56-65,F,ASY,Hypertoniia,N,LVH,extre high,N,Down,Y
+56-65,M,ASY,Hypertoniia,Y,ST,extre high,Y,Flat,Y
+45-55,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,ATA,Nomal,N,LVH,extre high,N,Flat,Y
+Less 45,M,ATA,Nomal,N,ST,extre high,N,Up,N
+56-65,F,NAP,Hypotoniia,N,Normal,extre high,N,Up,N
+45-55,F,ATA,Nomal,N,ST,extre high,N,Up,N
+More 65,F,NAP,Nomal,N,LVH,extre high,N,Flat,N
+56-65,M,ASY,Hypertoniia,N,Normal,extre high,N,Up,Y
+Less 45,M,ASY,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,ATA,Nomal,Y,Normal,extre high,N,Flat,N
+56-65,M,ASY,Hypertoniia,N,Normal,extre high,N,Flat,N
+45-55,F,ATA,Hypertoniia,N,LVH,extre high,N,Flat,N
+45-55,M,ASY,Nomal,N,Normal,extre high,Y,Up,Y
+56-65,F,ASY,Hypertoniia,N,LVH,extre high,N,Up,Y
+56-65,M,ASY,Hypertoniia,N,Normal,extre high,Y,Up,Y
+56-65,M,TA,Nomal,N,LVH,extre high,N,Flat,N
+45-55,M,NAP,Hypertoniia,Y,Normal,extre high,N,Up,N
+56-65,M,TA,Hypertoniia,N,Normal,extre high,N,Up,Y
+45-55,M,NAP,Hypertoniia,Y,ST,extre high,N,Flat,Y
+45-55,F,ATA,Nomal,N,Normal,extre high,N,Up,N
+45-55,F,ATA,Hypertoniia,N,Normal,extre high,N,Flat,N
+56-65,F,TA,Hypertoniia,Y,LVH,extre high,N,Up,N
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+More 65,F,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+More 65,M,ASY,Nomal,N,LVH,extre high,Y,Up,Y
+Less 45,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,M,ASY,Nomal,Y,ST,extre high,N,Flat,Y
+45-55,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+45-55,F,NAP,Hypertoniia,N,Normal,extre high,N,Up,N
+56-65,F,ASY,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,ATA,Nomal,N,LVH,extre high,N,Up,N
+45-55,M,NAP,Hypertoniia,N,Normal,extre high,N,Flat,Y
+More 65,M,ASY,Nomal,Y,Normal,extre high,N,Flat,Y
+45-55,F,ASY,Nomal,N,Normal,extre high,N,Up,N
+Less 45,F,ATA,Nomal,N,Normal,extre high,N,Up,N
+56-65,F,ASY,Nomal,N,Normal,extre high,Y,Up,N
+45-55,F,ATA,Nomal,N,Normal,extre high,N,Up,N
+56-65,F,NAP,Nomal,N,ST,extre high,N,Up,N
+56-65,M,ATA,Hypertoniia,N,Normal,extre high,Y,Up,N
+56-65,M,ATA,Hypertoniia,N,LVH,extre high,N,Up,Y
+Less 45,M,ASY,Nomal,Y,Normal,extre high,N,Flat,Y
+45-55,M,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,F,ATA,Hypotoniia,N,Normal,extre high,N,Up,N
+Less 45,F,ATA,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,NAP,Hypertoniia,Y,LVH,extre high,N,Up,N
+Less 45,F,NAP,Nomal,N,Normal,extre high,N,Flat,N
+More 65,F,ASY,Hypertoniia,Y,Normal,extre high,Y,Flat,Y
+56-65,M,NAP,Nomal,N,LVH,extre high,N,Flat,Y
+45-55,M,NAP,Hypertoniia,N,LVH,extre high,N,Up,N
+Less 45,M,NAP,Nomal,N,LVH,extre high,N,Flat,N
+45-55,M,ATA,Hypertoniia,N,Normal,extre high,Y,Up,N
+Less 45,F,ASY,Hypotoniia,Y,Normal,extre high,N,Up,Y
+Less 45,M,ASY,Nomal,N,Normal,extre high,N,Flat,Y
+45-55,M,NAP,Nomal,Y,LVH,extre high,N,Flat,N
+45-55,M,ASY,Nomal,N,LVH,extre high,N,Flat,Y
+45-55,F,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,F,NAP,Hypotoniia,N,LVH,extre high,N,Up,N
+Less 45,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+Less 45,F,ATA,Hypotoniia,N,Normal,extre high,N,Up,N
+56-65,M,ASY,Hypertoniia,N,Normal,extre high,Y,Up,N
+45-55,M,ASY,Nomal,N,Normal,extre high,N,Up,Y
+Less 45,M,NAP,Nomal,N,LVH,extre high,N,Flat,N
+Less 45,M,ATA,Hypertoniia,N,ST,extre high,N,Up,N
+Less 45,M,ASY,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,ATA,Nomal,N,Normal,extre high,N,Down,Y
+Less 45,M,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,F,NAP,Hypertoniia,N,LVH,extre high,N,Flat,N
+45-55,M,NAP,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,ATA,Nomal,N,Normal,extre high,N,Down,N
+56-65,F,ASY,Hypotoniia,N,Normal,extre high,Y,Flat,Y
+56-65,F,ASY,Nomal,N,LVH,extre high,N,Up,Y
+45-55,M,ASY,Nomal,Y,Normal,extre high,N,Up,Y
+45-55,F,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,M,ASY,Nomal,N,Normal,extre high,N,Flat,Y
+Less 45,F,NAP,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+45-55,F,ATA,Nomal,N,Normal,extre high,N,Up,N
+Less 45,F,TA,Hypertoniia,N,ST,extre high,N,Up,N
+45-55,F,NAP,Hypertoniia,Y,Normal,extre high,N,Flat,Y
+45-55,M,NAP,Hypertoniia,N,ST,extre high,N,Up,N
+Less 45,M,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,M,ASY,Nomal,N,Normal,extre high,N,Flat,Y
+Less 45,M,ASY,Nomal,N,Normal,extre high,N,Flat,Y
+56-65,M,ASY,Hypertoniia,N,LVH,extre high,N,Flat,Y
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+45-55,F,NAP,Hypertoniia,Y,Normal,extre high,N,Up,N
+45-55,M,ATA,Nomal,N,LVH,extre high,N,Up,N
+Less 45,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+Less 45,M,ASY,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,M,ASY,Hypertoniia,N,Normal,extre high,N,Up,N
+56-65,F,TA,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,M,ASY,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,ASY,Nomal,N,LVH,extre high,N,Up,Y
+Less 45,M,NAP,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,M,NAP,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,F,ATA,Hypotoniia,N,Normal,extre high,N,Up,N
+Less 45,F,ATA,Nomal,N,LVH,extre high,N,Up,N
+56-65,F,NAP,Hypertoniia,N,LVH,extre high,N,Up,N
+Less 45,F,NAP,Nomal,N,LVH,extre high,Y,Up,N
+More 65,F,NAP,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,M,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+56-65,F,NAP,Nomal,N,Normal,extre high,N,Up,N
+56-65,M,NAP,Hypertoniia,Y,Normal,extre high,N,Up,N
+Less 45,M,NAP,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,F,NAP,Nomal,N,Normal,extre high,N,Flat,N
+56-65,M,NAP,Hypertoniia,N,LVH,extre high,N,Up,Y
+45-55,M,NAP,Nomal,Y,LVH,extre high,N,Up,N
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,ASY,Hypertoniia,N,Normal,extre high,Y,Up,Y
+56-65,M,NAP,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,M,TA,Nomal,N,LVH,extre high,N,Up,N
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+56-65,F,ATA,Nomal,N,LVH,extre high,N,Flat,Y
+45-55,M,ATA,Hypotoniia,N,Normal,extre high,N,Up,N
+45-55,M,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+56-65,M,TA,Hypertoniia,Y,LVH,extre high,N,Flat,Y
+56-65,M,NAP,Nomal,Y,Normal,extre high,N,Flat,Y
+Less 45,F,NAP,Hypotoniia,N,Normal,extre high,N,Flat,N
+45-55,F,ASY,Hypotoniia,N,Normal,extre high,N,Up,N
+Less 45,F,ATA,Nomal,N,ST,extre high,N,Up,N
+45-55,F,ATA,Nomal,N,LVH,extre high,N,Flat,N
+Less 45,F,NAP,Hypertoniia,N,Normal,extre high,N,Up,N
+45-55,M,NAP,Nomal,Y,Normal,extre high,N,Up,N
+45-55,M,NAP,Nomal,N,Normal,extre high,N,Flat,Y
+45-55,M,TA,Hypertoniia,Y,Normal,extre high,N,Flat,Y
+45-55,M,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,M,ASY,Nomal,Y,Normal,extre high,N,Up,Y
+Less 45,F,ATA,Nomal,N,ST,extre high,N,Up,N
+Less 45,M,ASY,Nomal,N,LVH,extre high,N,Up,Y
+Less 45,M,TA,Hypertoniia,N,Normal,extre high,Y,Up,N
+Less 45,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+Less 45,M,ASY,Hypertoniia,N,Normal,extre high,N,Up,N
+56-65,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+Less 45,M,TA,Hypertoniia,N,LVH,extre high,N,Up,N
+45-55,M,TA,Hypertoniia,Y,Normal,extre high,N,Flat,N
+Less 45,M,NAP,Hypotoniia,N,Normal,extre high,N,Up,N
+56-65,F,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,F,NAP,Hypotoniia,N,Normal,extre high,N,Up,N
+Less 45,M,NAP,Nomal,N,Normal,extre high,Y,Up,N
+Less 45,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,NAP,Nomal,N,ST,extre high,N,Up,Y
+Less 45,M,TA,Hypertoniia,N,Normal,extre high,N,Flat,Y
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+Less 45,F,NAP,Nomal,N,ST,extre high,N,Up,N
+Less 45,F,ATA,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,ATA,Nomal,Y,ST,extre high,N,Up,N
+Less 45,M,NAP,Hypertoniia,N,LVH,extre high,N,Up,N
+45-55,M,ATA,Nomal,N,LVH,extre high,N,Flat,N
+45-55,F,ATA,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,M,ATA,Nomal,N,LVH,extre high,N,Up,N
+Less 45,M,ASY,Hypertoniia,N,Normal,extre high,N,Up,Y
+Less 45,M,ASY,Nomal,N,Normal,extre high,N,Flat,N
+56-65,M,ASY,Hypotoniia,Y,Normal,extre high,N,Down,Y
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+Less 45,F,ASY,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,M,TA,Nomal,N,Normal,extre high,Y,Flat,Y
+56-65,M,ASY,Hypertoniia,N,LVH,extre high,N,Up,N
+Less 45,M,NAP,Hypertoniia,N,LVH,extre high,N,Up,N
+Less 45,F,ASY,Nomal,N,ST,extre high,N,Up,N
+45-55,M,ATA,Nomal,Y,Normal,extre high,N,Up,N
+Less 45,M,ATA,Nomal,N,Normal,extre high,N,Up,N
+Less 45,M,NAP,Nomal,N,Normal,extre high,N,Flat,N
+Less 45,M,ATA,Nomal,N,LVH,extre high,N,Up,N
+Less 45,F,TA,Nomal,N,ST,extre high,N,Up,N
+45-55,M,ASY,Nomal,N,LVH,extre high,N,Up,N
+Less 45,M,NAP,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,ASY,Nomal,N,LVH,extre high,N,Up,N
+45-55,M,ASY,Hypertoniia,N,LVH,extre high,Y,Up,N
+Less 45,M,NAP,Nomal,N,Normal,extre high,N,Down,N
+Less 45,M,ATA,Nomal,N,LVH,extre high,N,Up,N
+Less 45,M,NAP,Hypertoniia,N,Normal,extre high,N,Up,N
+Less 45,F,ATA,Nomal,N,Normal,extre high,N,Up,N
+45-55,M,TA,Nomal,N,LVH,extre high,N,Flat,N
+Less 45,F,ATA,Nomal,N,Normal,extre high,N,Up,N
+Less 45,M,NAP,Nomal,Y,Normal,extre high,N,Down,N
+45-55,M,ATA,Hypertoniia,N,LVH,extre high,N,Up,Y
+Less 45,M,ATA,Nomal,N,LVH,extre high,N,Up,N
